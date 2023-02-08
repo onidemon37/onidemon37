@@ -1,16 +1,46 @@
-### Hi there 👋
+### About Me:
+My name is Edino and I am from :cape_verde:
 
-<!--
-**onidemon37/onidemon37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
-Here are some ideas to get you started:
+```yaml
+name: "Edino Moniz"
+where_i_am_from: :cape verde:
+located_in: "Somewhere in the UK"
+current_job: "devOps Engineer"
+company: "MirrorWeb"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interest: ["devOps", "Cloud Computing", "kubernetes"]
+
+currently_learning: ["AWS SQS", "terraform", "github actions"]
+
+goals_for_2023: [
+  "AWS Solutions Architect Associate Certification",
+  "better k8s skills",
+  "better terraform",
+  "git actions",
+  "Learn Golang",
+  "Run a half Marathon
+]
+
+hobbies: ["Analog photography", "traveling", "Apartment gardening"]
+```
+
+<h2> 🚀 &nbsp;Languages and Tools</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original-wordmark.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="vscode" width="45" height="45"/>
+               
+</p>
