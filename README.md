@@ -28,7 +28,7 @@ goals_for_2023: [
   "Run a half Marathon
 ]
 
-hobbies: ["Analog photography", "traveling", "Apartment gardening"]
+hobbies: ["Photography", "Traveling", "Apartment Gardening"]
 ```
 
 <h2> 🚀 &nbsp;Languages and Tools</h2>
