@@ -12,7 +12,12 @@ company: "MirrorWeb"
 
 fields_of_interest: ["devOps", "Cloud Computing", "kubernetes"]
 
-currently_learning: ["AWS", "terraform", "github actions", "emacs"]
+currently_learning: [
+  "AWS",
+  "terraform",
+  "github actions",
+  "Makefile"
+]
 
 goals_for_2023: [
   "AWS Solutions Architect Associate Certification",
