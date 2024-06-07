@@ -1,12 +1,12 @@
 ### About Me:
-My name is Edino and I am from :cape_verde:
+My name is Edino and I am from :cape_verde: Islands but I am currently living in Milton Keynes, 🇬🇧
 
 ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 ```yaml
 name: "Edino Moniz"
 where_i_am_from: :cape verde:
-located_in: "Somewhere in the UK"
+located_in: "Milton Keynes, UK"
 current_job: "devOps Engineer"
 company: "MirrorWeb"
 
@@ -14,21 +14,18 @@ fields_of_interest: ["devOps", "Cloud Computing", "kubernetes"]
 
 currently_learning: [
   "AWS",
-  "terraform",
-  "github actions",
+  "Talos Linux" 
   "Makefile"
 ]
 
-goals_for_2023: [
+goals_for_2024: [
   "AWS Solutions Architect Associate Certification",
-  "better k8s skills",
-  "better terraform",
-  "git actions",
-  "Learn Golang",
-  "Run a half Marathon
+  "Certified Kubernetes Administrator (CKA)",
+  "Better terraform",
+  "Run a half Marathon"
 ]
 
-hobbies: ["Photography", "Traveling", "Apartment Gardening"]
+hobbies: ["Photography", "Traveling", "Gardening"]
 ```
 
 <h2> 🚀 &nbsp;Languages and Tools</h2>
