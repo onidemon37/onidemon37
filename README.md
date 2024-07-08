@@ -1,5 +1,4 @@
 ### About Me:
-My name is Edino and I am from :cape_verde: Islands but I am currently living in Milton Keynes, 🇬🇧
 
 ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
@@ -14,8 +13,7 @@ fields_of_interest: ["devOps", "Cloud Computing", "kubernetes"]
 
 currently_learning: [
   "AWS",
-  "Talos Linux" 
-  "Makefile"
+  "Talos Linux"
 ]
 
 goals_for_2024: [
@@ -25,7 +23,7 @@ goals_for_2024: [
   "Run a half Marathon"
 ]
 
-hobbies: ["Photography", "Traveling", "Gardening"]
+hobbies: ["Photography", "Traveling", "Gardening", "Learning new languages"]
 ```
 
 <h2> 🚀 &nbsp;Languages and Tools</h2>
