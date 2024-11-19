@@ -6,23 +6,21 @@
 name: "Edino Moniz"
 where_i_am_from: :cape verde:
 languages_i_speak_fluently: ["Portuguese", "Criolo", "Spanish", "English"]
-languages_currently_learning: ["German", "Norwegian", "French"]
-located_in: "Milton Keynes, UK"
-current_job: "devOps Engineer"
-company: "MirrorWeb"
+languages_currently_learning: ["German", "Norwegian", "Gaelic",]
+located_in: "Glasgow, UK"
+current_job: "Site Reliability Engineer"
+company: "Sectigo"
 
 fields_of_interest: ["devOps", "Cloud Computing", "kubernetes"]
 
 currently_learning: [
-  "AWS",
+  "Kubernetes": "Constant Learning",
   "Talos Linux"
 ]
 
-goals_for_2024: [
-  "AWS Solutions Architect Associate Certification",
+goals_for_2025: [
   "Certified Kubernetes Administrator (CKA)",
-  "Better terraform",
-  "Run a half Marathon"
+  "Even Better terraform",
 ]
 
 hobbies: ["Photography", "Traveling", "Gardening", "Learning new languages"]
